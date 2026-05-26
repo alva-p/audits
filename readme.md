@@ -17,7 +17,6 @@ A summary of my confirmed findings across major Web3 security and bug bounty pla
 | :--- | :---: | :---: | :---: | :---: | :---: |
 | **HackenProof** | 1 | 0 | 0 | 0 | **1** |
 | **Immunefi** | 0 | 0 | 1 | 1 | **2** |
-| **Code4rena** | 0 | 0 | 0 | 0 | **0** |
 | **Sherlock** | 0 | 0 | 0 | 0 | **0** |
 | **Cantina** | 0 | 0 | 0 | 0 | **0** |
 | **HackerOne** | 0 | 0 | 0 | 0 | **0** |
