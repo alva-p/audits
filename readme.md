@@ -59,3 +59,7 @@ If you want to collaborate, discuss findings, or request an audit, feel free to 
 
 Thanks for visiting this repository.
 Security is a process, not a checkbox.
+
+<p align="center">
+	<img src="avatar.gif" alt="Avatar" />
+</p>
