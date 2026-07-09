@@ -1,7 +1,7 @@
 # Smart Contract Security Audits
 
 <p align="center">
-	<img src="105307315.png" alt="Profile logo" width="220" />
+	<img src="media/105307315.png" alt="Profile logo" width="220" />
 </p>
 
 
@@ -61,5 +61,5 @@ Thanks for visiting this repository.
 Security is a process, not a checkbox.
 
 <p align="center">
-	<img src="avatar.gif" alt="Avatar" />
+	<img src="media/avatar.gif" alt="Avatar" />
 </p>
