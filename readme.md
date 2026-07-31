@@ -98,6 +98,5 @@
 Open to collaborations, security research, and smart contract audit requests.
 
 <div align="center">
-  <img src="media/avatar.gif" alt="Alva avatar">
   <p><strong>Security is a process, not a checkbox.</strong></p>
 </div>
