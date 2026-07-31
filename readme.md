@@ -1,65 +1,103 @@
 # Smart Contract Security Audits
 
-<p align="center">
-	<img src="media/105307315.png" alt="Profile logo" width="220" />
-</p>
+<div align="center">
+  <img src="media/105307315.png" alt="Alva profile logo" width="220">
 
+  <h3>Web3 Security Researcher · Smart Contract Auditor</h3>
 
-Hello, I'm Alva. Welcome to the curated collection of my smart contract security audits.
+  <p>
+    A curated collection of smart contract audits, security research,<br>
+    confirmed findings, and bug bounty reports.
+  </p>
+</div>
 
-This repository serves as a public ledger of my progress as a Web3 Security Researcher and Smart Contract Auditor. It includes audit reports from a variety of sources, encompassing different challenge levels and objectives—ranging from continuous learning to professional engagements and bug bounty programs.
+## Findings
 
-## Bug Bounty & Audit Findings
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Platform</th>
+        <th>Critical</th>
+        <th>High</th>
+        <th>Medium</th>
+        <th>Low</th>
+        <th>Total</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><strong>HackenProof</strong></td>
+        <td>2</td>
+        <td>1</td>
+        <td>0</td>
+        <td>1</td>
+        <td><strong>4</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Immunefi</strong></td>
+        <td>0</td>
+        <td>0</td>
+        <td>1</td>
+        <td>1</td>
+        <td><strong>2</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Sherlock</strong></td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td><strong>0</strong></td>
+      </tr>
+      <tr>
+        <td><strong>Cantina</strong></td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td><strong>0</strong></td>
+      </tr>
+      <tr>
+        <td><strong>HackerOne</strong></td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td>0</td>
+        <td><strong>0</strong></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-A summary of my confirmed findings across major Web3 security and bug bounty platforms:
+<p align="center"><em>Updated as new findings are confirmed and disclosed.</em></p>
 
-| Platform | Critical | High | Medium | Low | Total Findings |
-| :--- | :---: | :---: | :---: | :---: | :---: |
-| **HackenProof** | 1 | 0 | 0 | 0 | **1** |
-| **Immunefi** | 0 | 0 | 1 | 1 | **2** |
-| **Sherlock** | 0 | 0 | 0 | 0 | **0** |
-| **Cantina** | 0 | 0 | 0 | 0 | **0** |
-| **HackerOne** | 0 | 0 | 0 | 0 | **0** |
+## Severity
 
-*Note: This table is continuously updated as new findings are confirmed and disclosed.*
-
-## Purpose
-
-- Build a public track record of my security work
-- Improve my auditing skills through continuous practice
-- Document findings, attack surfaces, and remediation ideas
-- Showcase real audit reports for clients, teams, and recruiters
-
-
-## Audit Approach
-
-My typical process includes:
-
-1. Scope review and protocol understanding
-2. Threat modeling and trust assumption analysis
-3. Manual code review with security-focused checklists
-4. Proof-of-concept thinking for exploitable paths
-5. Severity assessment and practical remediation guidance
-
-## Severity Labels
-
-When included in a report, findings are usually classified as:
-
-- Critical: direct and severe fund or protocol compromise
-- High: significant security or economic impact
-- Medium: meaningful risk under realistic conditions
-- Low: limited impact or edge-case risk
-
+<table>
+  <tr>
+    <td>🔴 <strong>Critical</strong></td>
+    <td>Direct and severe fund or protocol compromise</td>
+  </tr>
+  <tr>
+    <td>🟠 <strong>High</strong></td>
+    <td>Significant security or economic impact</td>
+  </tr>
+  <tr>
+    <td>🟡 <strong>Medium</strong></td>
+    <td>Meaningful risk under realistic conditions</td>
+  </tr>
+  <tr>
+    <td>🔵 <strong>Low</strong></td>
+    <td>Limited impact or edge case risk</td>
+  </tr>
+</table>
 
 ## Contact
 
-If you want to collaborate, discuss findings, or request an audit, feel free to reach out.
+Open to collaborations, security research, and smart contract audit requests.
 
----
-
-Thanks for visiting this repository.
-Security is a process, not a checkbox.
-
-<p align="center">
-	<img src="media/avatar.gif" alt="Avatar" />
-</p>
+<div align="center">
+  <img src="media/avatar.gif" alt="Alva avatar">
+  <p><strong>Security is a process, not a checkbox.</strong></p>
+</div>
