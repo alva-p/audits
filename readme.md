@@ -22,6 +22,7 @@
         <th>High</th>
         <th>Medium</th>
         <th>Low</th>
+        <th>Unrated</th>
         <th>Total</th>
       </tr>
     </thead>
@@ -32,7 +33,8 @@
         <td>1</td>
         <td>0</td>
         <td>1</td>
-        <td><strong>4</strong></td>
+        <td>1</td>
+        <td><strong>5</strong></td>
       </tr>
       <tr>
         <td><strong>Immunefi</strong></td>
@@ -40,10 +42,12 @@
         <td>0</td>
         <td>1</td>
         <td>1</td>
+        <td>0</td>
         <td><strong>2</strong></td>
       </tr>
       <tr>
         <td><strong>Sherlock</strong></td>
+        <td>0</td>
         <td>0</td>
         <td>0</td>
         <td>0</td>
@@ -56,10 +60,12 @@
         <td>0</td>
         <td>0</td>
         <td>0</td>
+        <td>0</td>
         <td><strong>0</strong></td>
       </tr>
       <tr>
         <td><strong>HackerOne</strong></td>
+        <td>0</td>
         <td>0</td>
         <td>0</td>
         <td>0</td>
